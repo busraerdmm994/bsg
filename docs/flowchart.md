@@ -1,7 +1,6 @@
 ```md
 # Blum Blum Shub (BBS) Akış Şeması
-
-```mermaid
+````mermaid
 flowchart TD
   A[Başla] --> B[p ve q seç (p mod 4 = 3)]
   B --> C[n = p * q]
