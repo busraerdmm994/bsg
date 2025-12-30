@@ -1,3 +1,4 @@
+```md
 # Blum Blum Shub (BBS) Akış Şeması
 
 ```mermaid
