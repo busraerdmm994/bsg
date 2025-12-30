@@ -1,5 +1,5 @@
-```md
 # Blum Blum Shub (BBS) Akış Şeması
+
 ```mermaid
 flowchart TD
   A[Başla] --> B[p ve q seç (p mod 4 = 3)]
