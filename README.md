@@ -1,5 +1,5 @@
 # rng-keygen (BBS Key Generator)
-
+230541022 Büşra Erdem
 Bu repo, Bilgi Sistemleri Güvenliği dersi kapsamında **anahtar üreteci** olarak kullanılabilecek
 bir **rastgele bit üretimi** (CSPRNG örneği) algoritması olan **Blum Blum Shub (BBS)** ile
 istenen uzunlukta anahtar (bit dizisi) üretir.
