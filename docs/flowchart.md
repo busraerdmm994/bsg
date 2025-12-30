@@ -1,4 +1,3 @@
-```md
 # Blum Blum Shub (BBS) Akış Şeması
 
 ```mermaid
@@ -13,4 +12,3 @@ flowchart TD
   H --> E
   E -- Evet --> I[Anahtarı çıktıya yaz]
   I --> J[Bitiş]
-**```** 
